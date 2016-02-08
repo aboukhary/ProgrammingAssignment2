@@ -1,5 +1,5 @@
 
-## m is the inverse variable. The functions set and get create and retrieve the matrix object.
+## m is the inverse variable. The functions set and get create and retrieve the matrix object and its inverse matrix.
 
 makeCacheMatrix <- function(x = matrix()) {
   
